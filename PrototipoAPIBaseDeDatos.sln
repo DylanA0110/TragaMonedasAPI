@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototipoAPIBaseDeDatos", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedModels", "SharedModels\SharedModels.csproj", "{D29D0D04-4110-4D84-9919-F50BCC4B20AA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vistas", "..\Vistas\Vistas.csproj", "{83EC93FD-0708-4E16-AA45-84855588E276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vistas", "Vistas\Vistas.csproj", "{83EC93FD-0708-4E16-AA45-84855588E276}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
